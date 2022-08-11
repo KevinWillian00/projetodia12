@@ -49,17 +49,17 @@ No footer, mostrará o criador da página
 **Criar Textos - fora do código
 Assuntos:
 	Amor
-	O numero 12
+	O numero 12 (CHECK)
 	A cor Amarela 
-	Estabilidade e Futuro
+	Estabilidade e Futuro (CHECK)
 	Amizade e Companherismo
-	- Texto Menina-
-	- O pedido de Namoro-
-	- Intro Samba in Paris- (insight: poderia adicionar a musica ao site)
-	- Referência Emicida-
+	- Texto Menina- (CHECK)
+	- O pedido de Namoro- (CHECK)
+	- Intro Samba in Paris- (CHECK)
+	- Referência Emicida- (CHECK)
 	- Familia-
 	- Daqui pra frente-
-	- Texto Final- "Aqui me despesso"
+	- Texto Final- "Aqui me despesso" (CHECK)
 **Escolher Fotos 
 Serão 12 Fotos
 Se possivel cada foto irá acompanhar um texto 
