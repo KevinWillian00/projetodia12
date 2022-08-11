@@ -59,6 +59,8 @@ section.imagem {
     color: purple;
     box-shadow: inset 6px 6px 13px 0px rgba(0, 0, 0, 0.466);
     background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 
 section#img01 {
