@@ -1,0 +1,101 @@
+Projeto Dia 12 
+
+		FEITO
+
+
+** Criar o doc em HTML 
+	Titulo
+	H1
+	Linkar CSS
+** Criar o doc em CSS
+	Linkar HTML
+
+
+		FEITO
+
+
+* Ideia 1
+Colocar 3 (12) Textos diferentes sobre o assunto
+Cada texto pode conter um conteúdo específico
+
+A página será baseada em tons de Amarelo (e talvez marrom)
+
+
+		FEITO
+
+
+**Colocar a semantica - HTML
+<header>
+	Colocar o titulo apenas 
+<main>
+<article>
+<p> Aqui será onde os textos serão colocados
+Cada texto tera sua proria tag article
+Dentro da tag article, será criada uma <div>
+<div> 
+Dentro de cada div será adicionada uma imagem, caso nao seja feito o efeito parallax
+<footer>
+No footer, mostrará o criador da página	
+
+
+**Colocar o estilo básico de cores - CSS
+*Dentro do body inserir cor de fundo, cor das letras
+(Ainda não será adicionado nenhuma fonte ou cor especifica)
+
+
+		FEITO
+
+
+**Criar Textos - fora do código
+Assuntos:
+	Amor
+	O numero 12
+	A cor Amarela 
+	Estabilidade e Futuro
+	Amizade e Companherismo
+	- Texto Menina-
+	- O pedido de Namoro-
+	- Intro Samba in Paris- (insight: poderia adicionar a musica ao site)
+	- Referência Emicida-
+	- Familia-
+	- Daqui pra frente-
+	- Texto Final- "Aqui me despesso"
+**Escolher Fotos 
+Serão 12 Fotos
+Se possivel cada foto irá acompanhar um texto 
+*Editar cada foto em formato redondo - (Ainda preciso aprender a fazer isso)
+(Preciso descobrir como vou baixar as fotos em PNG ou JPEG para meu computar) 
+
+
+**Criar as fontes do site - tipografia 
+Escolher alguma tipografia que venha remeter a uma handwritting
+Algo que seja suave e que dê uma sensação de tranquilidade pra que possa ser lida 
+Que venha remeter a sentimentos bons e consequentemente ao amor
+
+
+**Criar a paleta de cores do site
+Segundo a psicologia das cores o amarelo remete à felicidade, alegria e otimismo, porém
+acredito que nesse contexto ele também irá remeter ao amor
+
+
+**Banco de Dados de Estilo 
+Antes de colcar as fontes e as cores no site, criar um banco de dados escrito 
+com os códigos de cada fonte e cor
+
+
+**Adicionar Semantica pronta - HTML
+Colocar os títulos e parágrafos de cada texto dentro do código HTML
+Organizar a melhor ordem de textos 
+
+** Adicionar o Estilo - CSS
+Depois de terem sido criados os textos, colocar em cada um deles a fonte de titulo, 
+fonte de parágrafo, alinhamento, tamanho e etc...
+Depois colocar as cores no site
+
+** Adicionar as fotos!
+
+Data de Entrega: 12/08
+
+
+Mockflow - Ferramenta de gerenciamento de projetos 
+	
