@@ -90,12 +90,30 @@ section#img06 {
     background-position: center center;
 }
 
-section.imagem > h2, p {
+section.imagem > h2 {
     width: 400px;
     display: inline-block;
     padding: 5px;
-    background-image: linear-gradient(to bottom, rgba(255, 225, 92, 0.432), rgba(255, 169, 82, 0.425));
+    background-image: linear-gradient(to bottom, rgba(255, 225, 92, 0.432), rgba(255, 169, 82, 0.199));
     text-shadow: 0.5px 0.5px 0px black;
+}
+
+section.imagem > p {
+    width: 400px;
+    display: inline-block;
+    padding: 5px;
+    background-image: linear-gradient(to bottom, rgba(255, 225, 92, 0.432), rgba(255, 169, 82, 0.199));
+    text-shadow: 0.5px 0.5px 0px black;
+}
+
+section.normal > h2 {
+    background-image: linear-gradient(to bottom, #FFF9CC, #FFF6B3, #FFF399,#FFF180);
+    color: purple
+}
+
+section.normal > p {
+    background-image: linear-gradient(to bottom, #FFF9CC, #FFF6B3, #FFF399,#FFF180);
+    color: purple
 }
 
 footer {
