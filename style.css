@@ -48,6 +48,7 @@ section {
 }
 
 section.normal {
+    width: auto;
     background-image: linear-gradient(to bottom, #FFF9CC, #FFF6B3, #FFF399,#FFF180);
     color: purple
 }
