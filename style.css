@@ -16,7 +16,8 @@
 }
 
 html, body {
-    min-width: 100vw;
+    min-width: 300px;
+    max-width: 1000px;
     min-height: 100vh;
     background-color: yellow;
     font-family: var(--fonte1);
@@ -51,13 +52,15 @@ section {
 }
 
 section.normal {
-    width: 100vw;
+    min-width: 300px;
+    max-width: 1000px;
     background-image: linear-gradient(to bottom, #FFF9CC, #FFF6B3, #FFF399,#FFF180);
     color: purple
 }
 
 section.imagem {
-    width: 100vw;
+    min-width: 300px;
+    max-width: 1000px;
     height: auto;
     background-color: black;
     color: purple;
@@ -70,6 +73,7 @@ section.imagem {
 section#img01 {
     background-image: url(Imagens-Whatsapp/img.1pq.jpeg);
     background-position: right;
+    
 }
 
 section#img02 {
