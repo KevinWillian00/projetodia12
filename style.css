@@ -16,9 +16,10 @@
 }
 
 html, body {
-    min-width: 300px;
+    /*min-width: 300px;
     max-width: 1000px;
-    min-height: 100vh;
+    min-height: 100vh;*/
+    background-size: cover;
     background-color: yellow;
     font-family: var(--fonte1);
 
@@ -27,9 +28,10 @@ html, body {
 
 header {
     background-image: linear-gradient(to bottom, #FFE25A, #FFA852);
+    background-size: cover;
     color: purple;
     text-align: center;
-    width: 100vw;
+
 }
 
 header > h1 {
@@ -49,12 +51,12 @@ section {
     padding-bottom: 10vh;
     line-height: 1.5em;
     padding-left: 30px;
+    background-size: cover;
 }
 
 section.normal {
-    min-width: 300px;
-    max-width: 1000px;
     background-image: linear-gradient(to bottom, #FFF9CC, #FFF6B3, #FFF399,#FFF180);
+    background-size: cover;
     color: purple
 }
 
@@ -106,13 +108,13 @@ section#img06 {
 }
 
 section.imagem > h2 {
-    width: 100vw;
     display: inline-block;
     padding: 5px;
     background-image: linear-gradient(to bottom, rgba(255, 225, 92, 0.432), rgba(255, 169, 82, 0.199));
+    background-size: cover;
     text-shadow: 0.5px 0.5px 0px black;
     text-align: justify;
-    text-indent:inherit
+    
 }
 
 section.imagem > p {
@@ -126,9 +128,9 @@ section.imagem > p {
 }
 
 section.normal > h2 {
-    width: 100vw;
     display: inline-block;
     background-image: linear-gradient(to bottom, #FFF9CC, #FFF6B3, #FFF399,#FFF180);
+    background-size: cover;
     color: purple;
     text-align: justify;
     text-indent:inherit;
@@ -143,8 +145,8 @@ section.normal > p {
 }
 
 footer {
-    width: 100vw;
     background-image: linear-gradient(to bottom, #FFE25A, #FFA852);
+    background-size: cover;
     color: purple;
     text-align: center;
     padding: 10px;
