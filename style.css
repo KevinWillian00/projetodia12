@@ -72,32 +72,37 @@ section.imagem {
 section#img01 {
     background-image: url(Imagens-Whatsapp/img.1pq.jpeg);
     background-position: right;
-    
+    background-size: cover;
 }
 
 section#img02 {
     background-image: url(Imagens-Whatsapp/img.2.jpeg);
     background-position: right center;
+    background-size: cover;
 }
 
 section#img03 {
     background-image: url(Imagens-Whatsapp/img.3.jpeg);
     background-position: right center;
+    background-size: cover;
 }
 
 section#img04 {
     background-image: url(Imagens-Whatsapp/img.4.jpeg);
     background-position: right center;
+    background-size: cover;
 }
 
 section#img05 {
     background-image: url(Imagens-Whatsapp/img.9.jpeg);
     background-position: right bottom;
+    background-size: cover;
 }
 
 section#img06 {
     background-image: url(Imagens-Whatsapp/img.7.jpeg);
     background-position: center center;
+    background-size: cover;
 }
 
 section.imagem > h2 {
