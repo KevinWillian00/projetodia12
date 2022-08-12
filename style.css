@@ -73,7 +73,7 @@ section.imagem {
 
 section#img01 {
     background-image: url(Imagens-Whatsapp/img.1pq.jpeg);
-    background-position: right;
+    background-position: right right;
     background-size: auto 100%;
 }
 
