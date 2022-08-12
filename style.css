@@ -73,8 +73,8 @@ section.imagem {
 
 section#img01 {
     background-image: url(Imagens-Whatsapp/img.1pq.jpeg);
-    background-position: right right;
-    background-size: auto 100%;
+    background-position: right center;
+    background-size: cover;
 }
 
 section#img02 {
@@ -120,7 +120,7 @@ section.imagem > h2 {
 section.imagem > p {
     display: inline-block;
     padding: 5px;
-    background-image: linear-gradient(to bottom, rgba(255, 225, 92, 0.432), rgba(255, 169, 82, 0.199));
+    background-image: linear-gradient(to bottom, rgba(255, 225, 92, 0.432), rgba(255, 169, 82, 0.404));
     
     text-align: justify;
     text-indent:inherit
