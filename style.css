@@ -111,6 +111,7 @@ section.imagem > h2 {
     display: inline-block;
     padding: 5px;
     background-image: linear-gradient(to bottom, rgba(255, 225, 92, 0.432), rgba(255, 169, 82, 0.199));
+
     text-shadow: 0.5px 0.5px 0px black;
     text-align: justify;
     
@@ -162,4 +163,10 @@ a {
 
 a:hover {
     text-decoration: underline;
+}
+
+@media all and (max-width: 1024px) {
+    section.imagem {
+        background-attachment: scroll;
+    }
 }
