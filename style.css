@@ -111,14 +111,12 @@ section.imagem > h2 {
     display: inline-block;
     padding: 5px;
     background-image: linear-gradient(to bottom, rgba(255, 225, 92, 0.432), rgba(255, 169, 82, 0.199));
-    background-size: cover;
     text-shadow: 0.5px 0.5px 0px black;
     text-align: justify;
     
 }
 
 section.imagem > p {
-    width: 450px;
     display: inline-block;
     padding: 5px;
     background-image: linear-gradient(to bottom, rgba(255, 225, 92, 0.432), rgba(255, 169, 82, 0.199));
@@ -130,7 +128,6 @@ section.imagem > p {
 section.normal > h2 {
     display: inline-block;
     background-image: linear-gradient(to bottom, #FFF9CC, #FFF6B3, #FFF399,#FFF180);
-    background-size: cover;
     color: purple;
     text-align: justify;
     text-indent:inherit;
